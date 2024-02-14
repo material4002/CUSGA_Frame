@@ -30,7 +30,7 @@ namespace Mat
 
 		//当前场景
 		private int _currentScene = 0;
-		public int currentScent { get { return _currentScene; } }
+		public int currentScene { get { return _currentScene; } }
 
 		//检测场景是否符合条件
 		private bool IsScene(int scene)

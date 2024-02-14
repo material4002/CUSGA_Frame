@@ -20,7 +20,7 @@ namespace Mat
         PlayerInput _playerInput;
         InputData _data;
 
-        public void Trigger(InputAction.CallbackContext e)
+        private void Trigger(InputAction.CallbackContext e)
         {
             this.TriggerEvent(e.action.name, new ArgsInput { context = e });
         }

@@ -49,7 +49,7 @@ namespace Mat
 		public const string Music_V = "Music_V";
 		public const string Music_P = "Music_P";
 		public const string Sound_V = "Sound_V";
-		public const string Sound_P = "Soumd_P";
+		public const string Sound_P = "Sound_P";
 		public const string BGM_V = "BGM_V";
 		public const string BGM_P = "BGM_P";
 		public const string Master_V = "Master_V";
